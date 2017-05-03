@@ -1,0 +1,6 @@
+{"front":"What is the last name of the author who wrote \"Pride and Prejudice\"?","back":"Austen","type":"basic"};
+{"front":"What country is the setting for \"War and Peace\"?","back":"Russia","type":"basic"};
+{"front":"Who is the author of \"Far from the Madding Crowd\"? ","back":"Thomas Hardy","type":"basic"};
+{"text":
+" Elizabeth Bennet said in \"Pride and Prejudice\" that \"It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.\" ","cloze":"wife","clozeDeleted": "Elizabeth Bennet in \"Pride and Prejudice\" said that \"It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a ____.\"","type":"cloze"};
+{"front":"What is the last name of the author who wrote \"Pride and Prejudice\"?","back":"Austen","type":"basic"}
